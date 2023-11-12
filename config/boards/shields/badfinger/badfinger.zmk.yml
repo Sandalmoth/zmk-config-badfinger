@@ -1,0 +1,11 @@
+file_format: "1"
+id: badfinger
+name: badfinger
+type: shield
+url: https://github.com/Sandalmoth/keyboards/
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - badfinger_left
+  - badfinger_right

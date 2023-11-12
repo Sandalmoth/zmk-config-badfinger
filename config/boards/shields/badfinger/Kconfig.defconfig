@@ -1,0 +1,16 @@
+if SHIELD_BADFINGER_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "badfinger"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_BADFINGER_LEFT || SHIELD_BADFINGER_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
