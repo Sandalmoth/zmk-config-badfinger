@@ -1,5 +1,5 @@
 config SHIELD_BADFINGER_LEFT
-    def_bool $(shields_list_contains, badfinger_left)
+    def_bool $(shields_list_contains,badfinger_left)
     
 config SHIELD_BADFINGER_RIGHT
-    def_bool $(shields_list_contains, badfinger_right)
+    def_bool $(shields_list_contains,badfinger_right)
