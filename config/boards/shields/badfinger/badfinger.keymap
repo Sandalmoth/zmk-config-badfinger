@@ -13,6 +13,6 @@
                 &kp LSHIFT &kp Z      &kp X      &kp C      &kp V      &kp B                            &kp K      &kp M      &kp COMMA  &kp DOT    &kp FSLH   &kp RCTRL
                                                             &kp LGUI   &kp SPACE  &kp BSPC   &kp DEL    &kp ENTER  &kp RALT
             >;
-        }
-    }
-}
+        };
+    };
+};
