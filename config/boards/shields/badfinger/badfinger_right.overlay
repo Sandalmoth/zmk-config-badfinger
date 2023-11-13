@@ -1,7 +1,7 @@
 #include "badfinger.dtsi"
 
 &default_transform {
-    col-offset = <7>;
+    col-offset = <6>;
 };
 
 &default_kscan {
